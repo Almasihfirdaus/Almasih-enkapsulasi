@@ -1,0 +1,2 @@
+# Almasih-enkapsulasi
+enkapsulasi
